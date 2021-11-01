@@ -1,0 +1,5 @@
+/objs
+/.vscode
+*.o
+*.elf
+*.asm
